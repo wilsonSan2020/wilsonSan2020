@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wilsonSan2020
+- 👋 Hi, I’m @wilsonSan2020 an iOS Developer from Connecticut
 - 👀 I’m interested in Front End (Mostly iOS) and Backend Development using Vapor (Server side Swift)
 - 🌱 I’m currently learning Vapor, Fluent and AWS
 - 💞️ I’m looking to collaborate on ...
